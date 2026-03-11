@@ -58,7 +58,13 @@ Run the app
 streamlit run app.py
 
 ---
+## 📸 Application Screenshots
 
+### Dashboard View
+
+
+### Call Analysis Result
+![Analysis](analysis.png)
 ## 👩‍💻 Author
 
 Grace Reji  
