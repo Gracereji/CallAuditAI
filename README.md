@@ -61,10 +61,10 @@ streamlit run app.py
 ## 📸 Application Screenshots
 
 ### Dashboard View
-
+https://github.com/Gracereji/CallAuditAI/blob/main/Screenshot%202026-03-11%20230303.png?raw=true
 
 ### Call Analysis Result
-![Analysis](analysis.png)
+
 ## 👩‍💻 Author
 
 Grace Reji  
